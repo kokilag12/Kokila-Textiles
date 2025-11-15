@@ -1,0 +1,153 @@
+.top{
+    width: 98%;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: darkgray;
+    color: white;
+    font-size:20px;
+    h1{
+        font-family: 'Satisfy', cursive;
+        font-size: 30px; 
+    }
+   
+}
+body{
+    background-image: linear-gradient(white,rgb(149, 158, 162),white);
+}
+.nave{
+    color: cornsilk;
+    font-size: 25px;
+    ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 800px;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: cornsilk;
+}
+    li{
+    margin-right: 20px;
+    text-decoration: none;
+}
+}
+.imgmap{
+    border: 2px solid none;
+    padding: 10px;
+    width: 300px;
+    display: flex;
+}
+.map{
+    padding: 128px;
+    width: 50%;
+    display: flex;
+}
+.about{
+    font-size: 20px;
+    font-family: 'Kalam', cursive;
+    border: 2px solid darkgray;
+    background-color: darkgray;
+    color: cornsilk;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: justify;
+    img{
+        border-radius: 200px;
+        width: 400px;
+        height: 70%
+        aspect-ratio: 3/2;
+        object-fit:cover;
+        margin:25px;  
+    }
+}
+h3{
+    font-family: 'Satisfy', cursive; 
+    font-size:30px;
+}
+h2{
+    font-family: 'Satisfy', cursive; 
+    font-size:30px;
+}
+.regform{
+    .alert{
+        font-family: 'Satisfy', cursive; 
+        font-size:30px; 
+        p{
+        font-family: 'Kalam', cursive; 
+        font-size: 20px;
+        }
+    }
+    form{
+        margin-top:20px;
+        border: 2px solid darkgray;
+        background-color: darkgray;
+        color: cornsilk;
+        padding: 20px;
+        border-radius: 20px;
+        font-family: 'Kalam', cursive;
+    }
+    p{
+        font-size: 20px;
+    }
+    label{
+        font-size: 20px;
+        
+    }
+    input:hover{
+        text-align: left;
+        margin: 10px;
+        padding: 5px;
+        width: 100px;
+        height: 100px;
+        border: 1px solid cornflowerblue;
+        color: black;
+    }
+    select:hover{
+        border:1px solid cornflowerblue;
+        color:black;
+        margin: 10px;
+        padding: 5px;
+    }
+    button:hover{
+        background-color: green;
+        color:white;
+    }
+}
+.contact{
+        margin-top:20px;
+        border: 2px solid darkgray;
+        background-color: darkgray;
+        color: cornsilk;
+        padding: 20px;
+        border-radius: 20px;
+        font-family: 'Satisfy', cursive; 
+        font-size:30px; 
+    form{
+        font-family: 'Kalam', cursive;
+        font-size: 20px;
+        
+        label{
+            font-size: 20px;
+        }
+        input:hover{
+            text-align: left;
+            box-align: center;
+            margin: 10px;
+            padding: 5px;
+            border: 1px solid cornflowerblue;
+            color: black;
+        }
+        button:hover{
+            background-color: green;
+            color:white;
+        }
+    }
+}
+    
+
+
+    
+
